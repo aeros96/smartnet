@@ -1,6 +1,6 @@
 id="plugin.program.smartnetwizard"
 version="1.0.0"
-zip="https://github.com/aeros96/smartnet/raw/master/plugin.program.smartnetwizard.zip"
+zip="https://github.com/aeros96/smartnet/blob/master/zip/plugin.program.smartnetwizard.zip?raw=trueplugin.program.smartnetwizard.zip"
 
 name="SMARTNET WIZARD"
 version="0.1.1"
