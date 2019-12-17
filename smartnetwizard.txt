@@ -4,7 +4,7 @@ zip="https://aeros96.github.io/repository.smartnet9/zips/plugin.program.smartnet
 
 name="SMARTNET BUILD 18.4 v3.1"
 version="0.2.2"
-url="https://www.dropbox.com/s/kuz7ff5hnvy46te/smartnet31.zip?dl=1"
+url="https://www.dropbox.com/s/uqafdcdsh8q1fle/smartnet31.zip?dl=1"
 gui="http://"
 kodi="18.4"
 theme="http://"
