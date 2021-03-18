@@ -21,21 +21,17 @@ https://media-apps.com</summary>
 	</item>
 
 	<item>
-		<title>UK Turks APK installed on a Fire Stick</title>
-		<thumbnail>https://ws0.cocoscope.com/thumbnails/78264.jpg</thumbnail>
-		<link>https://www.cocoscope.com/watch?v=78264</link>
-		<summary>I walk you through the apps you need to make it easy for you to use Turks APK. This APK is loaded with so much. 
-https://media-apps.com/app/uk-turks
-</summary>
+		<title>Télé-Québec</title>
+		<thumbnail>resource://resource.images.catchuptvandmore/channels/ca/telequebec.png</thumbnail>
+		<link>plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/telequebec/get_live_url/?item_id=telequebec</link>
+		<summary>Télé-Québec</summary>
 	</item>
 
 	<item>
-		<title>SSTV PREMIUM IPTV Showcase</title>
+		<title>iptv frANCE</title>
 		<thumbnail>https://ws0.cocoscope.com/thumbnails/79891.jpg</thumbnail>
-		<link>https://www.cocoscope.com/watch?v=79891</link>
-		<summary>I give you a walk through SSTV service.Been running great and lots of channels and not seen any buffering yet. Here is some links and info and you decide if you want to test it 
-https://sshosting.cloud/
-		</summary>
+		<link>https://raw.githubusercontent.com/Catch-up-TV-and-More/plugin.video.catchuptvandmore/dev/resources/m3u/live_tv_fr.m3u</link>
+		<summary>CATCH-UP FRANCE</summary>
 	</item>
 
 	<item>
